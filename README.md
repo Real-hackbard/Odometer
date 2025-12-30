@@ -18,6 +18,19 @@ An odometer or odograph is an instrument used for measuring the distance travele
 
 </br>
 
+### Features:
+* Base Type
+  * Hexadecimal
+  * Binary
+  * Decimal
+* Animation
+  * Synchronous
+  * A-Synchronous
+* Set Value
+* Animation Frame Pause
+
+</br>
+
 
 
 
