@@ -27,6 +27,8 @@ An odometer or odograph is an instrument used for measuring the distance travele
 * Set Value
 * Animation Frame Pause
 
+Works well for representing or counting values ​​in binary, decimal or hexadecimal of all kinds.
+
 ### Resources:
 You can integrate your own images. To do this, the images in the resource folder must be compiled into the respective file names. From 0-9 for decimal/binary and A-F for hexadecimal.
 
