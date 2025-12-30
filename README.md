@@ -48,6 +48,9 @@ First, all images must be created individually.
 
 ![A](https://github.com/user-attachments/assets/0f510da5-097c-4354-9e50-0206f9b93194) ![B](https://github.com/user-attachments/assets/0b10ab35-feeb-4025-b3b1-c25357c3057d) ![C](https://github.com/user-attachments/assets/6a2baf85-195e-48cd-89b7-d0ee45cb6871) ![D](https://github.com/user-attachments/assets/06dd9258-0160-42bd-a828-7f4d12d0e851) ![E](https://github.com/user-attachments/assets/90c4472c-ff0a-4173-8edf-48b6d3e7e606) ![F](https://github.com/user-attachments/assets/8a3100b5-c9a8-4f59-888d-a320bd102409)
 
+</br>
+
+There must be a blank field at the end so that the animation is displayed synchronously from the end to the beginning. The result then looks like this.
 
 </br>
 
