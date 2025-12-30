@@ -34,6 +34,22 @@ An odometer or odograph is an instrument used for measuring the distance travele
 ### Resouces:
 You can integrate your own images. To do this, the images in the resource folder must be compiled into the respective file names. From 0-9 for decimal/binary and A-F for hexadecimal.
 
+First, all images must be created individually.
+
+</br>
+
+![0](https://github.com/user-attachments/assets/79063faf-e995-46e6-bf85-73967a759cc0) ![1](https://github.com/user-attachments/assets/cf04d109-651e-4a73-adae-1ce03162ed97) ![2](https://github.com/user-attachments/assets/61dcd962-9fe0-4091-a3e0-fd0a28941d4f) ![3](https://github.com/user-attachments/assets/29a26c05-4eb2-4cba-ae34-fa96c375fe8e) ![4](https://github.com/user-attachments/assets/af2c2b98-f4d4-4580-9894-163e30b79dc6) ![5](https://github.com/user-attachments/assets/fab65cda-8534-4f59-ace0-63a23526bf38) ![6](https://github.com/user-attachments/assets/a3e4f8e3-935a-4999-a2f8-3ae1b45d30da) ![8](https://github.com/user-attachments/assets/7c19212e-3e13-482d-93b5-dfda5eb26def) ![9](https://github.com/user-attachments/assets/dd80c314-e854-49af-a112-d015f1fb1428) 
+
+
+
+
+
+
+
+
+
+
+
 </br>
 
 ![digits](https://github.com/user-attachments/assets/9c6b3669-cc21-4c6c-ac02-72321603150e) ![rdigits](https://github.com/user-attachments/assets/5f576318-e173-4b8d-8ee4-b4c5578cfec7)
