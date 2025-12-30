@@ -10,7 +10,7 @@
 
 </br>
 
-
+An odometer or odograph is an instrument used for measuring the distance traveled by a vehicle, such as a bicycle or car. The device may be electronic, mechanical, or a combination of the two ([electromechanical](https://en.wikipedia.org/wiki/Electromechanics)). The noun derives from ancient Greek ὁδόμετρον, hodómetron, from ὁδός, hodós ('path' or 'gateway') and μέτρον, métron ('measure'). Early forms of the odometer existed in the ancient Greco-Roman world as well as in ancient China. In countries using Imperial units or US customary units it is sometimes called a mileometer or milometer, the former name especially being prevalent in the United Kingdom and among members of the Commonwealth.
 
 
 
