@@ -16,8 +16,6 @@ An odometer or odograph is an instrument used for measuring the distance travele
 
 ![Odometer](https://github.com/user-attachments/assets/aa6287ec-c965-458a-9a74-f832f53909de)
 
-</br>
-
 ### Features:
 * Base Type
   * Hexadecimal
@@ -28,8 +26,6 @@ An odometer or odograph is an instrument used for measuring the distance travele
   * A-Synchronous
 * Set Value
 * Animation Frame Pause
-
-</br>
 
 ### Resources:
 You can integrate your own images. To do this, the images in the resource folder must be compiled into the respective file names. From 0-9 for decimal/binary and A-F for hexadecimal.
