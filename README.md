@@ -31,7 +31,7 @@ An odometer or odograph is an instrument used for measuring the distance travele
 
 </br>
 
-### Resouces:
+### Resources:
 You can integrate your own images. To do this, the images in the resource folder must be compiled into the respective file names. From 0-9 for decimal/binary and A-F for hexadecimal.
 
 First, all images must be created individually.
